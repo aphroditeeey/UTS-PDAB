@@ -6,6 +6,8 @@ Nama         : Aphrodiva Delovi
 
 NIM          : 2404220038
 
+Program Studi: Statistika dan Sains Data
+
 Mata Kuliah  : Penambangan Data dan Analisis Bisnis
 
 
