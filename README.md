@@ -2,13 +2,13 @@
 
 ## Prediksi kualitas wine menggunakan machine learning Random Forest Classifier.
 
-Nama         : Aphrodiva Delovi
+Nama: Aphrodiva Delovi
 
-NIM          : 2404220038
+NIM: 2404220038
 
 Program Studi: Statistika dan Sains Data
 
-Mata Kuliah  : Penambangan Data dan Analisis Bisnis
+Mata Kuliah: Penambangan Data dan Analisis Bisnis
 
 
 ## Import Library
